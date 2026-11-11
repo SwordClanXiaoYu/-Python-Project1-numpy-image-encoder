@@ -20,7 +20,7 @@
 
 该实现需要放入课程提供的 `project1-numpy-student` 项目中运行，因为模型权重、测试图片、辅助函数和参考结果由课程附件提供。安装依赖后，在原项目目录执行：
 
-```bash
+```Shell
 python -m pip install -r requirements.txt
 python check.py --stage all
 python run.py --output output_tokens.npz
