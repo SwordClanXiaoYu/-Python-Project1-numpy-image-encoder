@@ -50,6 +50,10 @@ python run.py --output output_tokens.npz
 
 [github.com/ChaoFan996/Experiment-Report-Template-SZU](https://github.com/ChaoFan996/Experiment-Report-Template-SZU)
 
+Overleaf 链接
+
+https://www.overleaf.com/project/6af41cb7cb8d4f7336c8e6e3/share#b01bd44ca19cc1d2cfd191f2c48b3f48e3302ec3e2b78553
+
 ## AI 辅助说明
 
 本实验使用 GPT-6 Astra 辅助调试，并帮助理解深度学习和数值计算相关概念。核心实验、代码和测试由个人完成。
