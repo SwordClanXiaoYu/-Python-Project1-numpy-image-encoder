@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+output_tokens.npz
+weights/
+assets/
+*.zip
+cache/
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
