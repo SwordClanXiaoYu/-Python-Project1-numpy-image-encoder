@@ -52,7 +52,7 @@ python run.py --output output_tokens.npz
 
 Overleaf 链接
 
-[https://www.overleaf.com/project/6af41cb7cb8d4f7336c8e6e3/share#b01bd44ca19cc1d2cfd191f2c48b3f48e3302ec3e2b78553]
+[Overleaf - Python Project1](https://www.overleaf.com/project/6af41cb7cb8d4f7336c8e6e3/share#b01bd44ca19cc1d2cfd191f2c48b3f48e3302ec3e2b78553)
 
 ## AI 辅助说明
 
